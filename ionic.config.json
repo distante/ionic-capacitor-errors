@@ -1,0 +1,7 @@
+{
+  "name": "ionic-errors",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
